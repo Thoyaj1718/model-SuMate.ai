@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/model-SuMate.ai/static/css/main.f855e6bc.css",
+    "main.js": "/model-SuMate.ai/static/js/main.63ec9d7d.js",
+    "static/js/453.d7446e4a.chunk.js": "/model-SuMate.ai/static/js/453.d7446e4a.chunk.js",
+    "index.html": "/model-SuMate.ai/index.html",
+    "main.f855e6bc.css.map": "/model-SuMate.ai/static/css/main.f855e6bc.css.map",
+    "main.63ec9d7d.js.map": "/model-SuMate.ai/static/js/main.63ec9d7d.js.map",
+    "453.d7446e4a.chunk.js.map": "/model-SuMate.ai/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.63ec9d7d.js"
+  ]
+}
